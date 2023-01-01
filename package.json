@@ -21,7 +21,7 @@
     "@types/koa-session": "^5.10.2",
     "@types/mongoose": "^5.7.1",
     "@types/passport-local": "^1.0.33",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "crypto": "^1.0.1",
     "influx": "^5.5.1",
     "koa": "^2.11.0",
